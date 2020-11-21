@@ -178,6 +178,8 @@ em{
     .h099{
         font-size: 100px;
     }
+    .container {
+    max-width: 950px;
 }
 #cta{
     background-color: #ff4c68 ;
