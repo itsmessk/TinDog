@@ -1,0 +1,209 @@
+#fo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.font {
+    font-family: 'Arvo', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+#sk{
+    font-size: 50%;
+    padding-left: 2%;
+    color: gold;
+}
+.container-fluid{
+    padding: 1% 7%;
+}
+.row{
+    padding-bottom: 65px;
+}
+
+#h11{
+    font-size: 46px;
+    padding-top: 10%;
+}
+#a11{
+    font-size: 30px;
+
+}
+/*title-img*/
+
+.title-image{
+    width: 50%;
+    transform: rotate(25deg);  
+    position: absolute;
+    left: 25%;
+    
+}
+
+/*navigation bar*/
+.navbar-brand{
+    font-family: 'Arvo', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}    
+    
+#nav1{
+    padding-left: 2px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.nav-item{
+    padding:0 20px;
+    padding-bottom: 2%;
+}
+.nav-link{
+    font-size:1.1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.Download-button{
+    margin:10% 8% 5% 0;
+}
+
+/*features*/
+.fa-check-circle{
+    color:#ff8080;
+    font-size: 50px;
+    padding-bottom: 4%;
+    
+}
+.fa-bullseye{
+    color:#ff8080;
+    font-size: 50px;
+    padding-bottom: 4%;
+}    
+.fa-heart{
+    color:#ff8080;
+    font-size: 50px;
+    padding-bottom: 4%;
+   
+}
+.h44{
+    padding-bottom: 2%;
+}
+.align{
+    text-align: center;
+}
+.p111 {
+    color:#9b9797;
+    font-weight: lighter;
+    padding-bottom: 5%;
+}
+.p11 {
+    color:#9b9797;
+    font-weight: lighter;
+}
+.fa-check-circle:hover{
+    color: red;
+}
+.fa-bullseye:hover{
+    color: red;
+}
+.fa-heart:hover{
+    color: red;
+}
+#features{
+    
+    padding-right: 8%;
+    padding-left: 8%;
+    position: relative;
+    background-color: #fff;
+    padding-top: 7%;
+}
+/*testimonials*/
+#testimonials{
+    text-align:center;
+    background-color: #ff4c68;
+}
+.h22{
+    line-height: 3.5rem;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    padding: 7% 8%;
+}
+em{
+    color: #fff;
+}
+.testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color:   #ff4c68;
+    text-align:center;
+    padding-bottom: 5%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+/*pricing*/
+#pricing{
+    text-align: center;
+    padding: 100px 100px 30px 100px;
+}
+.pricing-col{
+    padding: 3% 4%;
+}
+.p123{
+    padding-top:2% ;
+    padding-bottom: 2%;
+}
+@media (max-width: 1028px) {
+    .title-image{
+        position: relative;
+        transform: rotate(0deg);
+        padding-top: 4%;
+        padding-left: 0;
+        width: 60%;
+        left:0 ;
+    }
+    #title{
+        text-align: center;
+    }
+    .Download-button{
+        text-align: center;
+        position: relative;
+        left: 3%;
+    }
+    .h099{
+        font-size: 100px;
+    }
+}
+#cta{
+    background-color: #ff4c68 ;
+    text-align: center;
+    color: #fff;
+    padding: 7% 8%;
+
+}
+.Download-button1{
+    margin: 5% 1% 0 1%;
+}
+.h099{
+    font-size: 50px; 
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 1;
+    color: rgb(66, 66, 66);
+}
+.fab0987{
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
+.href{
+    color: rgb(66, 66, 66);
+    font-size: 110%;
+}
