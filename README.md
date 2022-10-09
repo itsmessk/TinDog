@@ -1,1 +1,2 @@
 # TinDog
+Simple Welcome page 
